@@ -1,4 +1,4 @@
-![logo-u]
+![logo-u](logo-u.png)
 
 ##![Undefined] PROYECTO MODULO 2 EQUIPO 5 ADALAB
 **My proffesional card: proyecto incubadora JavaScript (JS)**
@@ -9,13 +9,11 @@ Comenzando 🚀 Para utilizarla solo necesitas cargar el enlace y....tendrás tu
 
 Construido con 🛠️ JavaScript (JS), HTML5 y CSS3. Además, nos hemos servido del preprocesador SASS y de Gulp
 
-Se aceptan expresiones de gratitud tales como una cerveza 🍺 o un café ☕
----
+## Se aceptan expresiones de gratitud tales como una cerveza 🍺 o un café ☕
 
 **Nombre del equipo - Undefined:**
 
 Demo Para ver el resultado del desarrollo de la página web puedes visitar el siguiente enlace: http://beta.adalab.es/project-promo-m-module-2-team-5/
-
 
 ## Guía de inicio rápido
 
