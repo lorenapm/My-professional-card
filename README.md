@@ -1,9 +1,8 @@
 ![logo-u]
 
-##![Undefined] PROYECTO MODULO 2 EQUIPO 5 ADALAB
-**My proffesional card: proyecto incubadora JavaScript (JS)**
+##My professional card: proyecto incubadora JavaScript (JS)
 
-**My proffesional card 📺 es un proyecto sencillo en equipo de de desarrollo de una aplicación web que nos permite crear una tarjeta de visita profesional personalizada. Te permite introducir tus datos profesionales y de contacto, tu foto y guardarlo en local storage.**
+**My professional card 📺 es un proyecto sencillo en equipo de de desarrollo de una aplicación web que nos permite crear una tarjeta de visita profesional personalizada. Te permite introducir tus datos profesionales y de contacto, tu foto y guardarlo en local storage.**
 
 Comenzando 🚀 Para utilizarla solo necesitas cargar el enlace y....tendrás tu tarjeta profesional un clic de distancia.
 
