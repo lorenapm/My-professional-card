@@ -1,4 +1,4 @@
-![logo-u](logo-u.png)
+![logo-u]
 
 ##![Undefined] PROYECTO MODULO 2 EQUIPO 5 ADALAB
 **My proffesional card: proyecto incubadora JavaScript (JS)**
