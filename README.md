@@ -14,6 +14,9 @@ Construido con 🛠️ JavaScript (JS), HTML5 y CSS3. Además, nos hemos servido
 
 Demo Para ver el resultado del desarrollo de la página web puedes visitar el siguiente enlace: http://beta.adalab.es/project-promo-m-module-2-team-5/
 
+<img src="src/images/readme-1" width=400px>
+<img src="src/images/readme-2" width=400px>
+
 ## Guía de inicio rápido
 
 > **NOTA:** Instalar previamente [Node JS](https://nodejs.org/) para trabajar con este repo:
