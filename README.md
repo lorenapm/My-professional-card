@@ -1,6 +1,7 @@
 ![logo-u]
+<img src="src/images/logo-u.png">
 
-##My professional card: proyecto incubadora JavaScript (JS)
+## My professional card: proyecto incubadora JavaScript (JS)
 
 **My professional card 📺 es un proyecto sencillo en equipo de de desarrollo de una aplicación web que nos permite crear una tarjeta de visita profesional personalizada. Te permite introducir tus datos profesionales y de contacto, tu foto y guardarlo en local storage.**
 
