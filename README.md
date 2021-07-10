@@ -1,5 +1,4 @@
-![logo-u]
-<img src="src/images/logo-u.png">
+<img src="src/images/logo-u.png" width=150px>
 
 ## My professional card: proyecto incubadora JavaScript (JS)
 
