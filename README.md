@@ -1,33 +1,21 @@
 ![logo-u]
 
 ##![Undefined] PROYECTO MODULO 2 EQUIPO 5 ADALAB
+**My proffesional card: proyecto incubadora JavaScript (JS)**
 
+**My proffesional card 📺 es un proyecto sencillo en equipo de de desarrollo de una aplicación web que nos permite crear una tarjeta de visita profesional personalizada. Te permite introducir tus datos profesionales y de contacto, tu foto y guardarlo en local storage.**
+
+Comenzando 🚀 Para utilizarla solo necesitas cargar el enlace y....tendrás tu tarjeta profesional un clic de distancia.
+
+Construido con 🛠️ JavaScript (JS), HTML5 y CSS3. Además, nos hemos servido del preprocesador SASS y de Gulp
+
+Se aceptan expresiones de gratitud tales como una cerveza 🍺 o un café ☕
 ---
 
-**Nombre del equipo - Undefined :**
-
-Este es el proyecto del módulo 02 de Adalab. El proyecto consiste en el desarrollo de una plicación web que nos permite crear una tarjeta de visita personalizada. En la página web podemos introducir nuestros datos profesionales y obtener una vista maquetada con esta información. El objetivo principal es mostrar las capacidades y habilidades de las integrantes del equipo, al mismo tiempo que poder usar para crear nuestras propias tarjetas de visita profesionales. Este producto ofrece una forma dinámica e interactiva de conocer nuestras capacidades como programadoras, y por tanto facilita la interacción entre recruiters y candidatas.
+**Nombre del equipo - Undefined:**
 
 Demo Para ver el resultado del desarrollo de la página web puedes visitar el siguiente enlace: http://beta.adalab.es/project-promo-m-module-2-team-5/
 
-**_𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝗲𝗺𝗽𝗹𝗲𝗮𝗱𝗮𝘀:_**
-
-Nuestra página está maquetada en HTML5 y CSS3. Además, nos hemos servido del preprocesador SASS y de Gulp. Con la utilización de estas tecnologías hemos conseguido automatizar tareas, trabajar con un código más ordenado y limpio, a la vez que optimizado para que nuestra web cargue rápidamente. Con respecto al control de versiones, hemos creado diferentes ramas según la funcionalidad de cada una, solventando los conflictos con soltura.
-
-El desarrollo del ejercicio se ha llevado a cabo utilizando el Starter Kit de Adalab, creado en node y gulp. Se trata de una plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas. Este Kit incluye un motor de plantillas HTML, el preprocesador SASS y un servidor local, además de otras herramientas como Gulp, que nos ayuda en la automatización de tareas.
-
-JavaScript (manipulación del DOM, eventos y manejo de estructuras de datos complejas), peticiones al servidor y almacenamiento de datos en local.
-
-Para iniciarlo necesitas tener instalado [Node JS](https://nodejs.org/) para trabajar con el Starter Kit que incluye.
-Este repo tiene incluído el Starter Kit creado en **node y gulp**. ¿Y qué es un Starter kit? Pues es una **plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas**.
-
-Incluye un motor de plantillas HTML, el preprocesador SASS, un servidor local y muchas cosas más. El Kit nos ayuda a trabajar más cómodamente, nos automatiza tareas.
-
-Hay 3 tipos de ficheros y carpetas:
-
-- Los ficheros que están sueltos en la raíz del repositorio, como gulpfile.js, package.json... Son la configuración del proyecto.
-- La carpeta `src/`: son los ficheros de la página web, como HTML, CSS, JS...
-- Las carpetas `public/` y `docs/`, que son generadas automáticamente cuando arrancamos el proyecto. El Kit lee los ficheros que hay dentro de `src/`, los procesa y los genera dentro de `public/` y `docs/`.
 
 ## Guía de inicio rápido
 
