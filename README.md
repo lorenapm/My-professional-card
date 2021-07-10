@@ -9,7 +9,7 @@ Comenzando 🚀 Para utilizarla solo necesitas cargar el enlace y....tendrás tu
 
 Construido con 🛠️ JavaScript (JS), HTML5 y CSS3. Además, nos hemos servido del preprocesador SASS y de Gulp
 
-## Se aceptan expresiones de gratitud tales como una cerveza 🍺 o un café ☕
+**Se aceptan expresiones de gratitud tales como una cerveza 🍺 o un café ☕**
 
 **Nombre del equipo - Undefined:**
 
